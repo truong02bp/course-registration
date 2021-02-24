@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+*{padding: 0; margin: 0;box-sizing: border-box;}
+
+body{
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: rgb(82, 82, 82);
+    min-height: 100vh;
+}
+input, button, select{
+    border: none;
+    outline: none!important;
+}
+input, select, option{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    background-color: inherit;
+    color: inherit;
+    max-width: 100%;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+a{
+    font-weight: 800;
+    color: #1976d2;
+}
+a:hover{
+    text-decoration: none;
+}
+
+@media(max-width: 768px){
+    body{
+        font-size: 14px;
+    }
+    a{
+        font-size: 14px!important;
+    }
+    table, h6, button{
+        font-size: 12px!important;
+    }
+}
+@media(max-width: 992px){
+    table thead tr th.unimportant, tbody tr td.unimportant{
+        display: none;
+    }
+}

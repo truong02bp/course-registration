@@ -1,0 +1,18 @@
+.news-item{
+    padding: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+.news-title{
+    font-size: 18px;
+}
+.read-more{
+    font-size: 12px;
+    transition: 0.3s;
+    display: inline-block;
+}
+.read-more:hover{
+    transform: translateX(10px);
+}

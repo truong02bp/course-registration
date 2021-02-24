@@ -1,0 +1,13 @@
+#classDetail .modal-body table{
+    width: 70%;
+    margin: 0 auto 20px;
+}
+
+#classDetail .modal-body table tr td{
+    padding: 10px
+}
+
+#classDetail .modal-body table tr td.label{
+    font-weight: 800;
+    color: #1976d2;
+}

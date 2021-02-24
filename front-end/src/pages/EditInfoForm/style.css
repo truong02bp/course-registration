@@ -1,0 +1,38 @@
+.edit-form{
+    max-width: 500px;
+    margin: 80px auto;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 12px 15px rgba(0, 0, 0, 0.2);
+    background-color: #f8f9fa;
+    flex-direction: column;
+}
+.edit-form td{
+    padding: 10px;
+}
+.edit-form .label{
+    font-weight: 800;
+    color: #1976d2;
+}
+.edit-form-header{
+    font-size: 18px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: rgb(214, 86, 47);
+}
+.edit-form input{
+    background-color: inherit;
+    color: inherit;
+}
+.button-group{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

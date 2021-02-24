@@ -1,0 +1,9 @@
+##PORT API DEV
+PORT=7654
+REACT_APP_API=http://localhost:8081
+##PORT API TEST
+#REACT_APP_API=http://localhost:7524
+##PORT API DEMO
+#REACT_APP_API=http://localhost:7524
+##PORT API PRO
+#REACT_APP_API=http://localhost:7524

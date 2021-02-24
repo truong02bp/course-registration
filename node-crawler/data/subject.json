@@ -1,0 +1,36 @@
+[
+  { "code": "BAS1144", "credit": 4, "name": " Tiếng anh A22", "fee": 1920000 },
+  { "code": "BAS1146", "credit": 4, "name": " Tiếng anh B12", "fee": 1920000 },
+  { "code": "INT1313", "credit": 3, "name": " Cơ sở dữ liệu", "fee": 1440000 },
+  { "code": "INT1319", "credit": 3, "name": " Hệ điều hành", "fee": 1440000 },
+  {
+    "code": "INT1330",
+    "credit": 3,
+    "name": " Kỹ thuật vi xử lý",
+    "fee": 1440000
+  },
+  {
+    "code": "INT1332",
+    "credit": 3,
+    "name": " Lập trình hướng đối tượng",
+    "fee": 1440000
+  },
+  {
+    "code": "SKD1101",
+    "credit": 1,
+    "name": " Kỹ năng thuyết trình",
+    "fee": 480000
+  },
+  {
+    "code": "SKD1102",
+    "credit": 1,
+    "name": " Kỹ năng làm việc nhóm",
+    "fee": 480000
+  },
+  {
+    "code": "SKD1108",
+    "credit": 2,
+    "name": " Phương pháp luận nghiên cứu khoa học",
+    "fee": 960000
+  }
+]

@@ -1,0 +1,32 @@
+.timetable-show td{
+    min-width: 120px;
+    max-width: 120px;
+}
+
+.timetable-show tbody tr td h6{
+    font-weight: 800;
+    color: #1976d2;
+}
+
+.bottom-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom-button .btn{
+    margin: 20px;
+}
+
+table{
+    font-size: 14px;
+}
+
+@media(max-width: 768px){
+    .timetable-control{
+        flex-direction: column;
+    }
+    button{
+        font-size: 14px!important;
+    }
+}

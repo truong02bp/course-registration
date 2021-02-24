@@ -1,0 +1,18 @@
+-- insert into users(username,password) values ('123','123');
+-- insert into roles(code) values ('USER');
+-- insert into roles(code) values ('ADMIN');
+-- insert into user_role(user_id,role_id) values(2,2); 
+-- insert into weeks(name) values ('tuần 1');
+-- insert into weeks(name) values ('tuần 2');
+-- insert into weeks(name) values ('tuần 3');
+-- insert into weeks(name) values ('tuần 4');
+-- insert into weeks(name) values ('tuần 5');
+-- insert into weeks(name) values ('tuần 6');
+-- insert into weeks(name) values ('tuần 7');
+-- insert into weeks(name) values ('tuần 8');
+-- insert into weeks(name) values ('tuần 9');
+-- insert into weeks(name) values ('tuần 10');
+-- insert into weeks(name) values ('tuần 11');
+-- insert into weeks(name) values ('tuần 12');
+-- insert into weeks(name) values ('tuần 13');
+-- insert into weeks(name) values ('tuần 14');
